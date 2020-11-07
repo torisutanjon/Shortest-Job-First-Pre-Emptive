@@ -1,0 +1,9 @@
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\bin\Debug\SJFPreEmptive.exe.config
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\bin\Debug\SJFPreEmptive.exe
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\bin\Debug\SJFPreEmptive.pdb
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.csprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.Properties.Resources.resources
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.csproj.GenerateResource.cache
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.exe
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.pdb
+C:\Users\Tristan\source\repos\SJFPreEmptive\SJFPreEmptive\obj\Debug\SJFPreEmptive.Form1.resources
